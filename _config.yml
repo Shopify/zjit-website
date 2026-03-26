@@ -1,0 +1,16 @@
+title: ZJIT
+baseurl: ""
+url: "https://zjit.dev"
+markdown: kramdown
+kramdown:
+  input: GFM # GitHub Flavored Markdown
+  hard_wrap: false
+highlighter: rouge
+plugins:
+  - rouge
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "page"
