@@ -2,25 +2,23 @@
 title: ZJIT
 ---
 
-ZJIT website. Coming soon. For now, please check out the [ZJIT docs](https://docs.ruby-lang.org/en/master/jit/zjit_md.html).
+## What is ZJIT?
 
-## What people are saying
+ZJIT is a lightweight just-in-time compiler for [Ruby](https://www.ruby-lang.org/), built directly into CRuby. It compiles Ruby bytecode into optimized machine code at runtime, improving performance for real-world workloads like Rails applications. ZJIT is available in Ruby 4.0 and later.
 
-Here are some blog posts and talks about ZJIT.
+Read the [documentation](https://docs.ruby-lang.org/en/master/jit/zjit_md.html) to get started.
 
-### Blog posts
+## Blog posts
 
-* [How ZJIT removes redundant object loads and stores](https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/)
-* [A multi-entry CFG design conundrum](https://bernsteinbear.com/blog/multiple-entry/)
-* [ZJIT is now available in Ruby 4.0](https://railsatscale.com/2025-12-24-launch-zjit/)
-* [How to annotate JITed code for perf/samply](https://bernsteinbear.com/blog/jit-perf-map/)
-* [Adding Iongraph support to ZJIT](https://railsatscale.com/2025-11-19-adding-iongraph-support/)
-* [How Ruby Executes JIT Code: The Hidden Mechanics Behind the Magic](https://railsatscale.com/2025-09-08-how-ruby-executes-jit-code-the-hidden-mechanics-behind-the-magic/)
-* [ZJIT has been merged into Ruby](https://railsatscale.com/2025-05-14-merge-zjit/)
+* [How ZJIT removes redundant object loads and stores](https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/) <span class="post-date">18 Mar 2026</span>
+* [A multi-entry CFG design conundrum](https://bernsteinbear.com/blog/multiple-entry/) <span class="post-date">2026</span>
+* [ZJIT is now available in Ruby 4.0](https://railsatscale.com/2025-12-24-launch-zjit/) <span class="post-date">24 Dec 2025</span>
+* [How to annotate JITed code for perf/samply](https://bernsteinbear.com/blog/jit-perf-map/) <span class="post-date">2025</span>
+* [Adding Iongraph support to ZJIT](https://railsatscale.com/2025-11-19-adding-iongraph-support/) <span class="post-date">19 Nov 2025</span>
+* [How Ruby Executes JIT Code](https://railsatscale.com/2025-09-08-how-ruby-executes-jit-code-the-hidden-mechanics-behind-the-magic/) <span class="post-date">8 Sep 2025</span>
+* [ZJIT has been merged into Ruby](https://railsatscale.com/2025-05-14-merge-zjit/) <span class="post-date">14 May 2025</span>
 
-### Talks
-
-TODO
+## Talks
 
 * RubyKaigi 2026
 * REBASE
