@@ -21,3 +21,8 @@ Here are some blog posts and talks about ZJIT.
 ### Talks
 
 TODO
+
+* RubyKaigi 2026
+* REBASE
+* SFRuby
+* RubyKaigi 2025
