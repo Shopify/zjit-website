@@ -20,9 +20,7 @@ Here are some blog posts and talks about ZJIT.
 
 ### Talks
 
-TODO
-
-* RubyKaigi 2026
-* REBASE
-* SFRuby
-* RubyKaigi 2025
+* RubyKaigi 2026 (coming soon)
+* REBASE 2025 [video](https://www.youtube.com/watch?v=zPrSG2e10Ig) [slides](https://speakerdeck.com/k0kubun/rebase-2025)
+* SFRuby 2025 [video](https://www.youtube.com/watch?v=XSdBCKepWHM) [slides](https://speakerdeck.com/k0kubun/san-francisco-ruby-conference-2025)
+* RubyKaigi 2025 [video](https://www.youtube.com/watch?v=1CCDuRW0OLk) [slides](https://www.slideshare.net/slideshow/zjit-building-a-next-generation-ruby-jit/278807093)
