@@ -10,6 +10,7 @@ Here are some blog posts and talks about ZJIT.
 
 ### Blog posts
 
+* [Using Perfetto in ZJIT](https://railsatscale.com/2026-03-27-using-perfetto-in-zjit/) <span class="post-date">27 Mar 2026</span>
 * [How ZJIT removes redundant object loads and stores](https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/) <span class="post-date">18 Mar 2026</span>
 * [A multi-entry CFG design conundrum](https://bernsteinbear.com/blog/multiple-entry/) <span class="post-date">22 Jan 2026</span>
 * [ZJIT is now available in Ruby 4.0](https://railsatscale.com/2025-12-24-launch-zjit/) <span class="post-date">24 Dec 2025</span>
