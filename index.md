@@ -2,7 +2,7 @@
 title: ZJIT
 ---
 
-ZJIT website. Coming soon. For now, please check out the [ZJIT docs](https://docs.ruby-lang.org/en/master/jit/zjit_md.html).
+ZJIT is a method-based just-in-time (JIT) compiler for Ruby. Check out the [ZJIT docs](https://docs.ruby-lang.org/en/master/jit/zjit_md.html).
 
 ## What people are saying
 
