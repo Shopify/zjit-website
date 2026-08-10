@@ -12,6 +12,8 @@ Here are some blog posts and talks about ZJIT.
 
 ### Blog posts
 
+* [The inliner is yielding benefits for ZJIT](https://railsatscale.com/2026-07-28-the-inliner-is-yielding-benefits/) <span class="post-date">28 Jul 2026</span>
+* [A new Register Allocator for ZJIT](https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/) <span class="post-date">27 May 2026</span>
 * [Using Perfetto in ZJIT](https://railsatscale.com/2026-03-27-using-perfetto-in-zjit/) <span class="post-date">27 Mar 2026</span>
 * [How ZJIT removes redundant object loads and stores](https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/) <span class="post-date">18 Mar 2026</span>
 * [A multi-entry CFG design conundrum](https://bernsteinbear.com/blog/multiple-entry/) <span class="post-date">22 Jan 2026</span>
