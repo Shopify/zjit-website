@@ -25,7 +25,11 @@ Here are some blog posts and talks about ZJIT.
 
 ### Talks
 
-* RubyKaigi 2026 (coming soon)
+* RubyKaigi 2026 (videos and slides coming soon)
+  * [The design and implementation of ZJIT \& the next five years](https://rubykaigi.org/2026/presentations/tekknolagi.html)
+  * [A Faster FFI](https://rubykaigi.org/2026/presentations/tenderlove.html)
+  * [Whose Memory is it Anyway](https://rubykaigi.org/2026/presentations/jacob-shops.html)
+  * [Lightning-Fast Method Calls with Ruby 4.1 ZJIT](https://rubykaigi.org/2026/presentations/k0kubun.html)
 * REBASE 2025 [video](https://www.youtube.com/watch?v=zPrSG2e10Ig) [slides](https://speakerdeck.com/k0kubun/rebase-2025)
 * SFRuby 2025 [video](https://www.youtube.com/watch?v=XSdBCKepWHM) [slides](https://speakerdeck.com/k0kubun/san-francisco-ruby-conference-2025)
 * RubyKaigi 2025 [video](https://www.youtube.com/watch?v=1CCDuRW0OLk) [slides](https://www.slideshare.net/slideshow/zjit-building-a-next-generation-ruby-jit/278807093)
