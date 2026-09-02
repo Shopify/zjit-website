@@ -27,7 +27,7 @@ Here are some blog posts and talks about ZJIT.
 ### Talks
 
 * RubyKaigi 2026 (videos and slides coming soon)
-  * [The design and implementation of ZJIT \& the next five years](https://rubykaigi.org/2026/presentations/tekknolagi.html)
+  * [The design and implementation of ZJIT &amp; the next five years](https://rubykaigi.org/2026/presentations/tekknolagi.html)
   * [A Faster FFI](https://rubykaigi.org/2026/presentations/tenderlove.html)
   * [Whose Memory is it Anyway](https://rubykaigi.org/2026/presentations/jacob-shops.html)
   * [Lightning-Fast Method Calls with Ruby 4.1 ZJIT](https://rubykaigi.org/2026/presentations/k0kubun.html)
