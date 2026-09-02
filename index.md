@@ -34,3 +34,10 @@ Here are some blog posts and talks about ZJIT.
 * REBASE 2025 [video](https://www.youtube.com/watch?v=zPrSG2e10Ig) [slides](https://speakerdeck.com/k0kubun/rebase-2025)
 * SFRuby 2025 [video](https://www.youtube.com/watch?v=XSdBCKepWHM) [slides](https://speakerdeck.com/k0kubun/san-francisco-ruby-conference-2025)
 * RubyKaigi 2025 [video](https://www.youtube.com/watch?v=1CCDuRW0OLk) [slides](https://www.slideshare.net/slideshow/zjit-building-a-next-generation-ruby-jit/278807093)
+
+### Papers
+
+* *Support Local Variables* \
+  Maxwell Bernstein, Takashi Kokubun, Kevin Menard, Aaron Patterson, Si Xing (Alan) Wu \
+  in VMIL 2026 \
+  [[PDF](/assets/support-local-variables.pdf)] [[ARX](https://arxiv.org/abs/2609.01502)]
