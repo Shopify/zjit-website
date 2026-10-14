@@ -3,8 +3,6 @@ title: ZJIT
 ---
 
 ZJIT is a method-based just-in-time (JIT) compiler for Ruby.
-Check out the [source](https://github.com/ruby/ruby/tree/master/zjit)
-and [docs](https://docs.ruby-lang.org/en/master/jit/zjit_md.html).
 
 ## What people are saying
 

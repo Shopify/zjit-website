@@ -14,15 +14,31 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <!-- <link rel="alternate" type="application/rss+xml" title="Blog" href="{{ site.url }}/feed.xml" /> -->
-    <style>
-    body {
-      font-family: system-ui, sans-serif;
-      font-weight: normal;
-    }
-    </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400&family=Noto+Sans+Mono:wght@400;700&display=swap">
+    <link rel="stylesheet" href="/assets/site.css">
   </head>
   <body>
-    <h1>{{ page.title }}</h1>
-    {{ content }}
+    <header class="masthead">
+      <div class="inner">
+        <p class="site-name"><a href="/"><img src="/z-logo.svg" alt="{{ site.title }}" style="height: 1.5em; vertical-align: middle;"></a></p>
+      </div>
+      <nav class="navbar">
+        <ul>
+          <li><a href="https://github.com/ruby/ruby/tree/master/zjit">source</a></li>
+          <li><a href="https://docs.ruby-lang.org/en/master/jit/zjit_md.html">docs</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main class="inner">
+      <h1>{{ page.title }}</h1>
+      {{ content }}
+    </main>
+    <footer class="footer">
+      <div class="inner">
+        <p>ZJIT is part of <a href="https://www.ruby-lang.org/">Ruby</a>.</p>
+      </div>
+    </footer>
   </body>
 </html>
