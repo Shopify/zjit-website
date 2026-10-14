@@ -12,6 +12,7 @@ Here are some blog posts and talks about ZJIT.
 
 ### Blog posts
 
+* [ZJIT is now as fast as YJIT](https://railsatscale.com/2026-10-09-zjit-is-now-as-fast-as-yjit/) <span class="post-date">9 Oct 2026</span>
 * [ZJIT 🤝 GC: Inlining GC Fastpath in ZJIT](https://railsatscale.com/2026-09-01-zjit-gc-fastpath/) <span class="post-date">1 Sep 2026</span>
 * [The inliner is yielding benefits for ZJIT](https://railsatscale.com/2026-07-28-the-inliner-is-yielding-benefits/) <span class="post-date">28 Jul 2026</span>
 * [A new Register Allocator for ZJIT](https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/) <span class="post-date">27 May 2026</span>
