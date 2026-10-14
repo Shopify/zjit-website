@@ -27,6 +27,7 @@ Here are some blog posts and talks about ZJIT.
 
 ### Talks
 
+* [VMIL 2026](https://conf.researchr.org/details/splash-issta-2026/vmil-2026/3/Support-Local-Variables)
 * RubyKaigi 2026 (videos and slides coming soon)
   * [The design and implementation of ZJIT &amp; the next five years](https://rubykaigi.org/2026/presentations/tekknolagi.html)
   * [A Faster FFI](https://rubykaigi.org/2026/presentations/tenderlove.html)
